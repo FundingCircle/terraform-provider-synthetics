@@ -12,7 +12,7 @@ Once this functionality would be marged to terraform aws provider this repositor
 terraform {
   required_providers {
     synthetics = {
-      source = "MaksymBilenko/synthetics"
+      source = "FundingCircle/synthetics"
       version = ">=0.1"
     }
   }
